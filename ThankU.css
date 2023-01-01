@@ -1,0 +1,62 @@
+body{
+border-style: ;
+  background-color: bisque;
+}
+.header{
+color: firebrick;
+text-align: center;
+font-family: cursive ;
+}
+.sub1{
+font-family: cursive ;
+color: mediumvioletred;
+text-align: center;
+}
+.sub2{
+font-family: cursive ;
+color: violet;
+text-align: center ;
+}
+.sub3{
+font-family: cursive;
+  color: hotpink;
+  text-align: center ;
+}
+.sub4{
+font-family: cursive ;
+color: darkred;
+text-align: center ;
+}
+footer{
+font-family: cursive;
+text-align: right ;
+color: palevioletred;
+text-shadow: magenta;
+background-color: lightpink;
+}
+.sub5{
+font-family: <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thank You.</title>
+<link rel="stylesheet" href="ThankU.css">
+</head>
+
+<body>
+<h1 class="header">It's The First Day Of The  Year...</h1>
+<h3 class="sub1">And I Felt I Should Thank Everyone</h3>
+<h4 class="sub2">Who Made Me Smile Last Year...</h4>
+<h5 class="sub3">You Are One Of Them.</h5>
+<h6 class="sub4">Thank You!!!</h6>
+<h1 class="sub5">Happy New Year "2023"!!!</h1>
+<footer>Dazeal</footer>
+</body>
+
+</html>
+;
+color: mediumvioletred;
+text-align: center ;
+}
