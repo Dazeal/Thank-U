@@ -2,6 +2,7 @@ body{
 border-style: ;
   background-color: bisque;
 background-image: url(NewYear.jpg);
+width:100%;
 }
 .header{
 color: firebrick;
